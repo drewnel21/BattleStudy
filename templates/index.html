@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wizard Battle - Enter Name</title>
+    <style>
+        /* Copy the full CSS block from battle.html here */
+        :root {
+            --player-color: #76c7c0;
+            --enemy-color: #e57373;
+            --bg-dark: #1f1c2c;
+            --bg-box: #2e2a47;
+            --accent: #7c4dff;
+        }
+
+        body {
+            font-family: "Segoe UI Emoji", "Segoe UI", sans-serif;
+            background: linear-gradient(to bottom, #1f1c2c, #928dab);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .battle-box {
+            background-color: var(--bg-box);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 80px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+
+        .button {
+            padding: 12px 20px;
+            background-color: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .button:hover {
+                background-color: #b388ff;
+            }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            font-size: 1rem;
+            border-radius: 6px;
+            border: none;
+            width: 100%;
+            max-width: 400px; /* Optional for visual balance */
+        }
+
+        @media screen and (max-width: 600px) {
+            body {
+                padding: 0 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="battle-box">
+            <h1>🧙 Enter Your Wizard Name</h1>
+            <form method="post">
+                <input type="text" name="username" placeholder="e.g. Gandalf" required />
+                <button class="button" type="submit">🔮 Begin Your Journey</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

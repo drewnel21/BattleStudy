@@ -1,0 +1,57 @@
+{
+  "username": "d",
+  "xp": 510,
+  "streak": 1,
+  "question_progress": {
+    "3.2.5-Firewall-Types_50": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "3.4.5-Power-Resiliency_38": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "null": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "2.4.13-Cryptographic-Attacks_41": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "1.2.7-Deception-and-Disruption_34": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.4.3-Key-Exchange_12": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "3.1.3-Other-Infrastructure-Concepts_53": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.4.5-Obfuscation_48": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.1.1-Security-Controls_27": {
+      "cooldown": 0,
+      "mistakes": 1,
+      "difficulty_level": 2
+    },
+    "1.1.1-Security-Controls_21": {
+      "cooldown": 3,
+      "mistakes": 0,
+      "difficulty_level": 1
+    }
+  }
+}

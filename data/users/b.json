@@ -1,0 +1,117 @@
+{
+  "username": "b",
+  "xp": 1160,
+  "streak": 0,
+  "question_progress": {
+    "5.3.1-Third-party-Risk-Assessment_25": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "1.2.1-The-CIA-Triad_49": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "null": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.4.10-Replay-Attacks_35": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.3.5-Vulnerability-Remediation_81": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "2.2.2-Phishing_17": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_46": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.2.2-Phishing_36": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "3.2.1-Secure-Infrastructures_30": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.1-Secure-Infrastructures_40": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_33": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_97": {
+      "cooldown": 3,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_77": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_10": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_87": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_57": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_50": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_21": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_16": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 2
+    },
+    "1.1.1-Security-Controls_43": {
+      "cooldown": 0,
+      "mistakes": 1,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_27": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_69": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    }
+  }
+}

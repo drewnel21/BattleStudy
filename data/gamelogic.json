@@ -1,0 +1,70 @@
+{
+  "player": {
+    "health": 100,
+    "xp": 0,
+    "streak": 0
+  },
+  "enemy": {
+    "type": "wizard",
+    "health": 100
+  },
+  "question_engine": {
+    "question_source": {
+      "folder_path": "E:\\Security+\\Anki Export Backups\\Security+ Scenario MCQs.apkg",
+      "formats_supported": [ ".csv", ".html", ".apkg" ]
+    },
+    "adaptive_difficulty": true,
+    "initial_difficulty": "easy",
+    "difficulty_progression": {
+      "on_wrong": "increase",
+      "max_difficulty_level": 3
+    },
+    "mistake_tracking": {
+      "track_per_question": true,
+      "data_storage": "local_json_or_database",   
+      "fields": [ "mistake_count", "current_difficulty" ]
+    },
+    "repeat_logic": {
+      "wrong_once_repeat_in": 5,
+      "wrong_twice_repeat_in": 3,
+      "wrong_3plus_repeat_in": 1
+    },
+    "difficulty_levels": {
+      "1": {
+        "label": "easy",
+        "player_damage_on_wrong": 10,
+        "enemy_damage_on_correct": 10
+      },
+      "2": {
+        "label": "medium",
+        "player_damage_on_wrong": 15,
+        "enemy_damage_on_correct": 15
+      },
+      "3": {
+        "label": "hard",
+        "player_damage_on_wrong": 25,
+        "enemy_damage_on_correct": 25
+      }
+    }
+  },
+  "battle_logic": {
+    "on_correct": {
+      "attack_enemy": true,
+      "streak_increment": 1
+    },
+    "cooldown_logic": {
+      "enabled": true,
+      "cooldown_on_correct": 3,
+      "cooldown_on_wrong": 1
+    },
+    "on_wrong": {
+      "enemy_attacks": true,
+      "reset_streak": true,
+      "increase_question_difficulty": true,
+      "record_mistake": true
+    },
+    "win_condition": "enemy.health <= 0",
+    "lose_condition": "player.health <= 0",
+    "xp_award_on_win": 50
+  }
+}

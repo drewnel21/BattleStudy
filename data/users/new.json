@@ -1,0 +1,22 @@
+{
+  "username": "new",
+  "xp": 550,
+  "streak": 0,
+  "question_progress": {
+    "2.2.2-Phishing_36": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_46": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_17": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    }
+  }
+}

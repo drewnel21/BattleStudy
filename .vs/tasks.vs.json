@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-choose_world",
+      "appliesTo": "templates/choose_world.html",
+      "type": "launch"
+    }
+  ]
+}

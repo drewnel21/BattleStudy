@@ -1,0 +1,37 @@
+{
+  "username": "test",
+  "xp": 1010,
+  "streak": 0,
+  "question_progress": {
+    "2.2.2-Phishing_17": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_36": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_46": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_33": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.1.1-Security-Controls_57": {
+      "cooldown": 0,
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_43": {
+      "cooldown": 1,
+      "mistakes": 0,
+      "difficulty_level": 1
+    }
+  }
+}

@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wizard Battle</title>
+    <style>
+        :root {
+            --player-color: #76c7c0;
+            --enemy-color: #e57373;
+            --bg-dark: #1f1c2c;
+            --bg-box: #2e2a47;
+            --accent: #7c4dff;
+        }
+
+        body {
+            font-family: "Segoe UI Emoji", "Segoe UI", sans-serif;
+            background: linear-gradient(to bottom, #1f1c2c, #928dab);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .battle-box {
+            background-color: var(--bg-box);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+        }
+
+        h1, h2 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .hp-bar {
+            background-color: #222;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-bottom: 8px;
+        }
+
+        .hp-bar-inner {
+            height: 18px;
+            width: 100%;
+            transition: width 0.3s ease-in-out;
+        }
+
+        .button {
+            padding: 12px 20px;
+            background-color: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+            .button:hover {
+                background-color: #b388ff;
+            }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+
+        input[type="radio"] {
+            transform: scale(1.2);
+            margin-right: 8px;
+        }
+
+        @media screen and (max-width: 600px) {
+            body {
+                padding: 0 10px;
+            }
+
+            h1 {
+                font-size: 1.6rem;
+            }
+
+            h2 {
+                font-size: 1.2rem;
+            }
+
+            .battle-box {
+                padding: 15px;
+            }
+
+            .button {
+                font-size: 1rem;
+                padding: 10px 15px;
+            }
+
+            label {
+                font-size: 0.95rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧙 Wizard Battle - {{ username.title() }}{% if session['wizard_hp'] <= 0 or session['player_hp'] <= 0 %} - Game Over{% endif %}</h1>
+        <h2>🌍 World: {{ world }}</h2>
+
+        {% if error_message %}
+        <div class="battle-box">
+            <p>{{ error_message }}</p>
+            <form action="{{ url_for('choose_world') }}" method="get">
+                <button class="button" type="submit">🌍 Choose Another World</button>
+            </form>
+        </div>
+        {% endif %}
+
+        {% if session.get("last_result") %}
+        <div class="battle-box">
+            <p>
+                {% if "Correct!" in session.get("last_result", "") %} 🎯 {% elif "Wrong!" in session.get("last_result", "") %} ❌ {% endif %}
+                {{ session.pop("last_result")|safe }}
+            </p>
+
+            <div class="hp-bar">
+                <div class="hp-bar-inner" style="width: {{ session['player_hp'] }}%; background-color: var(--player-color);"></div>
+            </div>
+            <p>🧍 Your HP: {{ session['player_hp'] }} / 100</p>
+
+            <div class="hp-bar">
+                <div class="hp-bar-inner" style="width: {{ session['wizard_hp'] }}%; background-color: var(--enemy-color);"></div>
+            </div>
+            <p>🧙 Wizard HP: {{ session['wizard_hp'] }} / 100</p>
+
+            <p>⭐ XP: {{ profile['xp'] }}</p>
+
+            {% if difficulty > 1 %}
+            <p>⏳ This question was answered incorrectly before. Difficulty has increased.</p>
+            {% endif %}
+
+            {% if session['wizard_hp'] <= 0 or session['player_hp'] <= 0 %}
+            <form action="{{ url_for('restart_battle') }}" method="post" style="margin-bottom: 10px;">
+                <button class="button" type="submit">🔄 Start New Battle (Same World)</button>
+            </form>
+            <form action="{{ url_for('choose_world') }}" method="get">
+                <button class="button" type="submit">🌍 Choose Another World</button>
+            </form>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        {% if question and session['wizard_hp'] > 0 and session['player_hp'] > 0 %}
+        <div class="battle-box">
+            <p>
+                <strong>🧠 Question</strong>
+                {% if difficulty == 1 %} <span>🟢 Easy</span>
+                {% elif difficulty == 2 %} <span>🟡 Medium</span>
+                {% elif difficulty == 3 %} <span>🔴 Hard</span>
+                {% endif %}
+            </p>
+            <p>{{ question['question'] or question['text'] }}</p>
+
+            <form method="post">
+                {% for choice in question['choices'] %}
+                <label>
+                    <input type="radio" name="answer" value="{{ choice[0] }}" required />
+                    {{ choice }}
+                </label>
+                {% endfor %}
+                <input type="hidden" name="qid" value="{{ question['id'] }}" />
+                <input type="hidden" name="world" value="{{ world }}" />
+                <button class="button" type="submit">⚔️ Submit Answer</button>
+            </form>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

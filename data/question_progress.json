@@ -1,0 +1,2659 @@
+{
+  "questions": {
+    "1.1.1-Security-Controls_10": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_27": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.1.1-Security-Controls_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_69": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_77": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_87": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.1.1-Security-Controls_97": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_9": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_49": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.1-The-CIA-Triad_56": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.2-Non-repudiation_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.2-Non-repudiation_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.2-Non-repudiation_49": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.2-Non-repudiation_68": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.3-Authentication-Authorization-and-Accounting_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.3-Authentication-Authorization-and-Accounting_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.3-Authentication-Authorization-and-Accounting_91": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.4-Gap-Analysis_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.4-Gap-Analysis_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.4-Gap-Analysis_56": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_8": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.5-Zero-Trust_60": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_77": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.6-Physical-Security_87": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.7-Deception-and-Disruption_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.7-Deception-and-Disruption_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.7-Deception-and-Disruption_34": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.2.7-Deception-and-Disruption_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_63": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_74": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_84": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.1-Change-Management_95": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_87": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_95": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_107": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.3.2-Technical-Change-Management_114": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_10": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_54": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.4.1-Public-Key-Infrastructure_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.1-Public-Key-Infrastructure_69": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.2-Encrypting-Data_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.2-Encrypting-Data_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.2-Encrypting-Data_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.2-Encrypting-Data_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.2-Encrypting-Data_80": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_6": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_33": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.4.3-Key-Exchange_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.3-Key-Exchange_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.4-Encryption-Technologies_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.4-Encryption-Technologies_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.4-Encryption-Technologies_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.5-Obfuscation_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.5-Obfuscation_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.5-Obfuscation_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.5-Obfuscation_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.5-Obfuscation_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.6-Hashing-and-Digital-Signatures_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.6-Hashing-and-Digital-Signatures_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.6-Hashing-and-Digital-Signatures_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.6-Hashing-and-Digital-Signatures_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.6-Hashing-and-Digital-Signatures_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.7-Blockchain-Technology_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_80": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "1.4.8-Certificates_92": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_102": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "1.4.8-Certificates_113": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_65": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_76": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.1.1-Threat-Actors_96": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_90": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_100": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_109": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_116": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.2.1-Common-Threat-Vectors_128": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.1-Common-Threat-Vectors_141": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.2-Phishing_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.3-Impersonation_10": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.3-Impersonation_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.3-Impersonation_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.3-Impersonation_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.3-Impersonation_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.4-Watering-Hole-Attacks_6": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.4-Watering-Hole-Attacks_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.4-Watering-Hole-Attacks_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.4-Watering-Hole-Attacks_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.4-Watering-Hole-Attacks_63": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "2.2.5-Other-Social-Engineering-Attacks_11": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.5-Other-Social-Engineering-Attacks_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.2.5-Other-Social-Engineering-Attacks_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.1-Memory-Injections_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.1-Memory-Injections_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.1-Memory-Injections_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.10-Cloud-specific-Vulnerabilities_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.10-Cloud-specific-Vulnerabilities_70": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.11-Supply-Chain-Vulnerabilities_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.11-Supply-Chain-Vulnerabilities_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.11-Supply-Chain-Vulnerabilities_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.11-Supply-Chain-Vulnerabilities_56": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.11-Supply-Chain-Vulnerabilities_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.12-Misconfiguration-Vulnerabilities_22": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.3.12-Misconfiguration-Vulnerabilities_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.12-Misconfiguration-Vulnerabilities_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.12-Misconfiguration-Vulnerabilities_53": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.13-Mobile-Device-Vulnerabilities_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.13-Mobile-Device-Vulnerabilities_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.13-Mobile-Device-Vulnerabilities_61": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.14-Zero-day-Vulnerabilities_6": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.14-Zero-day-Vulnerabilities_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.14-Zero-day-Vulnerabilities_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.2-Buffer-Overflows_7": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.2-Buffer-Overflows_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.2-Buffer-Overflows_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.2-Buffer-Overflows_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.3-Race-Conditions_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.3-Race-Conditions_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.3-Race-Conditions_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.4-Malicious-Updates_11": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.4-Malicious-Updates_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.4-Malicious-Updates_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.4-Malicious-Updates_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.5-Operating-System-Vulnerabilities_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.5-Operating-System-Vulnerabilities_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.5-Operating-System-Vulnerabilities_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.6-SQL-Injection_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.6-SQL-Injection_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.6-SQL-Injection_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_10": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.7-Cross-site-Scripting_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.8-Hardware-Vulnerabilities_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.8-Hardware-Vulnerabilities_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.8-Hardware-Vulnerabilities_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.9-Virtualization-Vulnerabilities_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.9-Virtualization-Vulnerabilities_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.3.9-Virtualization-Vulnerabilities_41": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.1-An-Overview-of-Malware_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.1-An-Overview-of-Malware_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.1-An-Overview-of-Malware_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.1-An-Overview-of-Malware_66": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.10-Replay-Attacks_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.10-Replay-Attacks_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.10-Replay-Attacks_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.10-Replay-Attacks_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.11-Malicious-Code_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.11-Malicious-Code_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.11-Malicious-Code_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.12-Application-Attacks_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.12-Application-Attacks_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.12-Application-Attacks_99": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.12-Application-Attacks_118": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.12-Application-Attacks_148": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.13-Cryptographic-Attacks_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.13-Cryptographic-Attacks_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.13-Cryptographic-Attacks_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.13-Cryptographic-Attacks_41": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.13-Cryptographic-Attacks_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_10": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.14-Password-Attacks_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_73": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_86": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_104": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_121": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.15-Indicators-of-Compromise_139": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.2-Viruses-and-Worms_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.2-Viruses-and-Worms_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.2-Viruses-and-Worms_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.2-Viruses-and-Worms_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.3-Spyware-and-Bloatware_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.3-Spyware-and-Bloatware_25": {
+      "mistakes": 1,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.4.3-Spyware-and-Bloatware_36": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "2.4.3-Spyware-and-Bloatware_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.4-Other-Malware-Types_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.5-Physical-Attacks_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.5-Physical-Attacks_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.6-Denial-of-Service_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.6-Denial-of-Service_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.6-Denial-of-Service_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.6-Denial-of-Service_53": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.7-DNS-Attacks_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.7-DNS-Attacks_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.7-DNS-Attacks_68": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.7-DNS-Attacks_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.8-Wireless-Attacks_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.8-Wireless-Attacks_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.8-Wireless-Attacks_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.8-Wireless-Attacks_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.8-Wireless-Attacks_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.9-On-path-Attacks_16": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.4.9-On-path-Attacks_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.1-Segmentation-and-Access-Control_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.1-Segmentation-and-Access-Control_88": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.2-Mitigation-Techniques_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_41": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_82": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_92": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_98": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "2.5.3-Hardening-Techniques_108": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.1-Cloud-Infrastructures_97": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.2-Network-Infrastructure-Concepts_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_6": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_53": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_65": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_83": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_93": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_104": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.3-Other-Infrastructure-Concepts_114": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_44": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_65": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_76": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_88": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_103": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_116": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.1.4-Infrastructure-Considerations_129": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.1-Secure-Infrastructures_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.1-Secure-Infrastructures_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.1-Secure-Infrastructures_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.2-Intrusion-Prevention_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.2-Intrusion-Prevention_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.2-Intrusion-Prevention_49": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.2-Intrusion-Prevention_74": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.3-Network-Appliances_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.4-Port-Security_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.4-Port-Security_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.4-Port-Security_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.5-Firewall-Types_34": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.5-Firewall-Types_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.5-Firewall-Types_66": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.5-Firewall-Types_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.5-Firewall-Types_88": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_83": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_88": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_100": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.2.6-Secure-Communication_112": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.1-Data-Types-and-Classifications_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.1-Data-Types-and-Classifications_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.1-Data-Types-and-Classifications_60": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.2-States-of-Data_13": {
+      "mistakes": 1,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "3.3.2-States-of-Data_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.2-States-of-Data_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.2-States-of-Data_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.2-States-of-Data_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_56": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_65": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_87": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.3.3-Protecting-Data_98": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_83": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_91": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_110": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.1-Resiliency_120": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_8": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_49": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.2-Capacity-Planning_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.3-Recovery-Testing_37": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.3-Recovery-Testing_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.3-Recovery-Testing_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_68": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_77": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_80": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_90": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.4-Backups_100": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.5-Power-Resiliency_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.5-Power-Resiliency_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.5-Power-Resiliency_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.5-Power-Resiliency_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "3.4.5-Power-Resiliency_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.1-Secure-Baselines_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.1-Secure-Baselines_36": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.1-Secure-Baselines_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.1-Secure-Baselines_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_86": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_114": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_124": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.2-Hardening-Targets_129": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_90": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.3-Securing-Wireless-and-Mobile_103": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_71": {
+      "mistakes": 1,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.1.4-Wireless-Security-Settings_76": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.4-Wireless-Security-Settings_97": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_34": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_63": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.1.5-Application-Security_73": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_89": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_113": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_120": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.2.1-Asset-Management_146": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.1-Vulnerability-Scanning_11": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.1-Vulnerability-Scanning_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.1-Vulnerability-Scanning_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.1-Vulnerability-Scanning_34": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.3.1-Vulnerability-Scanning_49": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.1-Vulnerability-Scanning_60": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_11": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_34": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.2-Threat-Intelligence_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.3-Penetration-Testing_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.3-Penetration-Testing_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.3-Penetration-Testing_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.3-Penetration-Testing_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.3-Penetration-Testing_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_48": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_60": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_69": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.4-Analyzing-Vulnerabilities_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_68": {
+      "mistakes": 1,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.3.5-Vulnerability-Remediation_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_78": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_81": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.3.5-Vulnerability-Remediation_93": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.1-Security-Monitoring_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.1-Security-Monitoring_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.1-Security-Monitoring_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.1-Security-Monitoring_97": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.1-Security-Monitoring_109": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_69": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_95": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_106": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_118": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.4.2-Security-Tools_158": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.1-Firewalls_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.1-Firewalls_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.1-Firewalls_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.1-Firewalls_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.1-Firewalls_81": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.2-Web-Filtering_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.2-Web-Filtering_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.2-Web-Filtering_43": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.2-Web-Filtering_53": {
+      "mistakes": 1,
+      "difficulty_level": 2,
+      "cooldown": 0
+    },
+    "4.5.2-Web-Filtering_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.3-Operating-System-Security_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.3-Operating-System-Security_24": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.3-Operating-System-Security_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.4-Secure-Protocols_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.4-Secure-Protocols_34": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.4-Secure-Protocols_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.4-Secure-Protocols_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.5-Email-Security_15": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.5-Email-Security_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.5-Email-Security_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.5-Email-Security_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.5-Email-Security_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.6-Monitoring-Data_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.6-Monitoring-Data_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.6-Monitoring-Data_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.6-Monitoring-Data_70": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.5.7-Endpoint-Security_32": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.7-Endpoint-Security_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.7-Endpoint-Security_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.7-Endpoint-Security_74": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.7-Endpoint-Security_86": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.5.7-Endpoint-Security_107": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_95": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_103": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.1-Identity-and-Access-Management_115": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_41": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_60": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_71": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.2-Access-Controls_80": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_21": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.3-Multifactor-Authentication_57": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_12": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_31": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.6.4-Password-Security_61": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.7.1-Scripting-and-Automation_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.7.1-Scripting-and-Automation_67": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.7.1-Scripting-and-Automation_86": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_26": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "4.8.1-Incident-Response_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_68": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_90": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_105": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_116": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.1-Incident-Response_143": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.2-Incident-Planning_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.3-Digital-Forensics_18": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.3-Digital-Forensics_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.3-Digital-Forensics_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.3-Digital-Forensics_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.8.3-Digital-Forensics_63": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.9.1-Log-Data_118": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.9.1-Log-Data_140": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "4.9.1-Log-Data_153": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_38": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_66": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_81": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_89": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_101": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_113": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_124": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.1-Security-Policies_135": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.2-Security-Standards_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.2-Security-Standards_28": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.2-Security-Standards_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.2-Security-Standards_47": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.2-Security-Standards_55": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.3-Security-Procedures_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.3-Security-Procedures_31": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 0
+    },
+    "5.1.3-Security-Procedures_45": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.3-Security-Procedures_74": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.3-Security-Procedures_85": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.3-Security-Procedures_96": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.4-Security-Considerations_9": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.4-Security-Considerations_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.4-Security-Considerations_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.4-Security-Considerations_68": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.5-Data-Roles-and-Responsibilities_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.1.5-Data-Roles-and-Responsibilities_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.1-Risk-Management_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.1-Risk-Management_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.2-Risk-Analysis_27": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.2-Risk-Analysis_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.2-Risk-Analysis_79": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.2-Risk-Analysis_90": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.3-Risk-Management-Strategies_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.3-Risk-Management-Strategies_54": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.2.4-Business-Impact-Analysis_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_25": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_41": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_50": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_58": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_64": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_70": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_83": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_96": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.1-Third-party-Risk-Assessment_112": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.3.2-Agreement-Types_86": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_20": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_51": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_73": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_111": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_128": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.1-Compliance_143": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.2-Privacy_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.2-Privacy_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.2-Privacy_52": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.4.2-Privacy_62": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_9": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_14": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_17": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_22": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_26": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_30": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_35": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_39": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.1-Audits-and-Assessments_44": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_13": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_23": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_33": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_42": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_59": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.5.2-Penetration-Tests_75": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.1-Security-Awareness_56": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.1-Security-Awareness_78": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.1-Security-Awareness_99": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.1-Security-Awareness_128": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.2-User-Training_19": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.2-User-Training_29": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.2-User-Training_40": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.2-User-Training_46": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "5.6.2-User-Training_53": {
+      "mistakes": 0,
+      "difficulty_level": 1
+    },
+    "null": {
+      "mistakes": 0,
+      "difficulty_level": 1,
+      "cooldown": 3
+    }
+  },
+  "2.4.14-Password-Attacks_10": {
+    "mistakes": 1,
+    "cooldown": 1
+  }
+}
